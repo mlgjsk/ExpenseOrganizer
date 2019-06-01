@@ -18,19 +18,3 @@ The Dropbox JavaScript SDK is a lightweight, promise based interface to the Drop
 
 See [examples/](https://github.com/dropbox/dropbox-sdk-js/tree/master/examples) for working examples of how the SDK can be used in a few different environments.
 
-## Contributing
-
-Please see [CONTRIBUTING.md](https://github.com/dropbox/dropbox-sdk-js/blob/master/CONTRIBUTING.md) for information on how to contribute, setup the development environment and run tests.
-
-## Versioning
-We will try to follow [semver](http://semver.org/) as close as possible.
-That means bug fixes will be patch releases (1.0.1 -> 1.0.2), additional
-functionality like new endpoints will be minor releases (1.0.1 -> 1.1.0)
-and breaking changes to both the library and the API endpoints it hits,
-will be major releases (1.0.1 -> 2.0.0).
-
-This SDK will be taking the `dropbox` package name on
-[npm](https://www.npmjs.com/package/dropbox) from the [legacy
-SDK](https://github.com/dropbox/dropbox-js), that uses the old version of
-the Dropbox API. This will bump the version number from `0.10.3` to
-`2.0.0`, which should avoid breaking changes due to semver assumptions.
