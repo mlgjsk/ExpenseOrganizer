@@ -1,5 +1,6 @@
 # ExpenseOrganizer
 
+---------------------------------------------------------------------------------------------------------------------------------------
 ## About Dropbox API
 
 [![Build Status](https://travis-ci.org/dropbox/dropbox-sdk-js.svg?branch=master)](https://travis-ci.org/dropbox/dropbox-sdk-js) [![npm version](https://badge.fury.io/js/dropbox.svg)](https://badge.fury.io/js/dropbox)
